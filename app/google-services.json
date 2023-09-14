@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "938640602429",
+    "project_id": "taskmanager-f0574",
+    "storage_bucket": "taskmanager-f0574.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938640602429:android:42f8655edfd353cab60154",
+        "android_client_info": {
+          "package_name": "com.selmi.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "client_id.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "current_key"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "client_id.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

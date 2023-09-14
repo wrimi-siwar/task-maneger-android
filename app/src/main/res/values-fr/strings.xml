@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">Gestion des tâches</string>
+    <string name="title_activity_test">test</string>
+    <string name="navigation_drawer_open">Ouvrir le tiroir de navigation</string>
+    <string name="navigation_drawer_close">Fermer le tiroir de navigation</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">En-tête de navigation</string>
+    <string name="action_settings">Paramètres</string>
+    php
+    Copy code
+    <string name="menu_home">Accueil</string>
+    <string name="menu_gallery">Mes tâches</string>
+    <string name="menu_slideshow">Mes historiques</string>
+    <string name="title_activity_menu">Activité de menu</string>
+    <string name="title_activity_settings">Paramètres</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Synchronisation</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Votre signature</string>
+    <string name="reply_title">Action de réponse par défaut</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Synchroniser les e-mails périodiquement</string>
+    <string name="attachment_title">Télécharger les pièces jointes entrantes</string>
+    <string name="attachment_summary_on">Télécharger automatiquement les pièces jointes des e-mails entrants
+</string>
+    <string name="attachment_summary_off">Télécharger les pièces jointes uniquement sur demande</string>
+    <string name="confirm_delete_text">Êtes-vous sûr de vouloir supprimer cette tâche ?</string>
+    <string name="confirm_delete_title">Supprimer la tâche</string>
+    <string name="delete">Supprimer</string>
+    <string name="cancel">Annuler</string>
+    <string name="language">Changer la langue</string>
+    <string name="theme_name">Mode clair</string>
+    <string name="pref_language_title">Langue</string>
+    <string name="pref_language_summary">Sélectionnez votre langue préférée</string>
+    <string name="completed_checkbox">Completed</string>
+    <string name="due_date_hint">Due date (dd/MM/yyyy)</string>
+    <string name="updateprofile">  Update Profil! </string>
+    <string name="sign">Sign Up</string>
+    <string name="username">username</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="login">Login</string>
+    <string name="forgetpassword">Forget password</string>
+    <string name="remember">Remember me</string>
+    <string-array name="languages">
+        <item>Anglais</item>
+        <item>Français</item>
+        <item>Allemand</item>
+        <!-- Ajoutez plus de langues selon vos besoins -->
+    </string-array>
+
+    <string-array name="language_codes">
+        <item>en</item>
+        <item>fr</item>
+        <item>de</item>
+        <!-- Ajoutez plus de codes de langue selon vos besoins -->
+    </string-array>
+</resources>

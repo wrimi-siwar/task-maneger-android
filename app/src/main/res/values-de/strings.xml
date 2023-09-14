@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">Aufgabenverwaltung</string>
+    <string name="title_activity_test">Test</string>
+    <string name="navigation_drawer_open">Navigationsleiste öffnen</string>
+    <string name="navigation_drawer_close">Navigationsleiste schließen</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigationsheader</string>
+    <string name="action_settings">Einstellungen</string>
+    <string name="menu_home">Startseite</string>
+    <string name="menu_gallery">Aufgaben</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="title_activity_menu">Menüaktivität</string>
+    <string name="title_activity_settings">Einstellungsaktivität</string>
+    php
+    Copy code
+    <!-- Einstellungstitel -->
+    <string name="messages_header">Nachrichten</string>
+    <string name="sync_header">Synchronisation</string>
+
+    <!-- Nachrichteneinstellungen -->
+    <string name="signature_title">Ihre Signatur</string>
+    <string name="reply_title">Standardantwortaktion</string>
+
+    <!-- Synchronisationseinstellungen -->
+    <string name="sync_title">E-Mails periodisch synchronisieren</string>
+    <string name="attachment_title">Eingehende Anhänge herunterladen</string>
+    <string name="attachment_summary_on">Anhänge von eingehenden E-Mails automatisch herunterladen</string>
+    <string name="attachment_summary_off">Anhänge nur auf Anfrage herunterladen</string>
+    <string name="confirm_delete_text">Möchten Sie diese Aufgabe wirklich löschen?</string>
+    <string name="confirm_delete_title">Aufgabe löschen</string>
+    <string name="delete">Löschen</string>
+    <string name="cancel">Abbrechen</string>
+    <string name="language">Sprache ändern</string>
+    <string name="theme_name">Hellmodus</string>
+    <string name="pref_language_title">Sprache</string>
+    <string name="pref_language_summary">Wählen Sie Ihre bevorzugte Sprache aus</string>
+    <string name="completed_checkbox">Completed</string>
+    <string name="due_date_hint">Due date (dd/MM/yyyy)</string>
+    <string name="updateprofile">  Update Profil! </string>
+    <string name="sign">Sign Up</string>
+    <string name="username">username</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="login">Login</string>
+    <string name="forgetpassword">Forget password</string>
+    <string name="remember">Remember me</string>
+    <string-array name="languages">
+        <item>Englisch</item>
+        <item>Französisch</item>
+        <item>Deutsch</item>
+        <!-- Fügen Sie je nach Bedarf weitere Sprachen hinzu -->
+    </string-array>
+
+    <string-array name="language_codes">
+        <item>en</item>
+        <item>fr</item>
+        <item>de</item>
+        <!-- Fügen Sie je nach Bedarf weitere Sprachcodes hinzu -->
+    </string-array>
+</resources>
+
+
+
+

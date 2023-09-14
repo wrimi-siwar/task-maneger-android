@@ -1,0 +1,27 @@
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <Preference
+        app:fragment="com.selmi.myapp.SettingsActivity$MessagesFragment"
+        app:icon="@drawable/messages"
+        app:key="messages_header"
+        app:title="@string/messages_header" />
+
+    <Preference
+        app:fragment="com.selmi.myapp.SettingsActivity$SyncFragment"
+        app:icon="@drawable/sync"
+        app:key="sync_header"
+        app:title="@string/sync_header" />
+
+    <Preference
+        app:fragment="com.selmi.myapp.SettingsActivity$LanguageFragment"
+        app:icon="@drawable/language"
+        app:key="sync_header"
+        app:title="@string/language" />
+
+    <Preference
+        app:fragment="com.selmi.myapp.SettingsActivity$ThemeFragment"
+        app:icon="@drawable/light"
+        app:key="theme_header"
+        app:title="@string/theme_name" />
+
+</PreferenceScreen>
